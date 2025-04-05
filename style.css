@@ -314,7 +314,7 @@ strong{
         margin-top: 150px;
     }
     .texto-serviço p{
-        
+        margin: 20px auto;
         font-size: 20px;
     }
     .texto-serviço p, h1{
